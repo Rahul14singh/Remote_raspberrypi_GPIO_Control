@@ -448,8 +448,8 @@ class General (QWidget,connection):
         fbox.addRow(hboxl16)
         self.setLayout(fbox)
         self.setWindowTitle('CONTROL GPIO')
-        self.setWindowIcon(QIcon('logso.png'))
-        oImage = QImage("image2.jpg")
+        self.setWindowIcon(QIcon('logso.png'))  ################# CHANGE THE QICON IMAGE HERE #################
+        oImage = QImage("image2.jpg")           ################# CHANGE THE BACKGROUND IMAGE HERE #################  
         sImage = oImage.scaled(QSize(1350,750))                   
         palette = QPalette()
         palette.setBrush(10, QBrush(sImage))
