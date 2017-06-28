@@ -38,6 +38,7 @@ if facing difficulty in installing libraries here is the link for the HELP:
 - Raspberry Pi should be properly configured as per the Instructions that are given in the weaved. Instructions(http://forum.weaved.com/t/how-to-get-started-with-remot3-it-for-pi/1029/6)
 - The folder named "control_gpio_pi" should be placed on the Desktop in raspberry such that the location of the folder is  "/home/pi/Desktop/control_gpio_pi" or manually edit the code according to your preference and location of the folder later.
 - The correct weaved (remote3.it) credentials should be given or replaced or entered in GUI of the application.
+- If the default Username "pi" and Password "raspberry" for the raspberry is changed then change the same in the code since these details are hard coded. 
 
 ## Run:
 
