@@ -21,9 +21,9 @@ apiMethod="http://"
 apiVersion="/v21"
 apiServer="api.weaved.com"
 apiKey="WeavedDemoKey$2015"
-userName = "rahulsingh14jan95@gmail.com"
-password = "rahul!14singham"
-Devicename="Pi_SSH_22"
+userName = "XXXXXXXXXXXXXXXXXXX ENTER YOUR DEFAULT ACCOUNT'S USERNAME HERE XXXXXXXXXXXXXXXXXXX"
+password = "XXXXXXXXXXXXXXXXXXX ENTER YOUR DEFAULT ACCOUNT'S PASSWORD HERE XXXXXXXXXXXXXXXXXXX"
+Devicename="XXXXXXXXXXXXXXXXXXX ENTER THE SSH DEVICENAME YOU HAVE GIVEN TO THE DEFAULT DEVICE XXXXXXXXXXXXXXXXXXX"
 commandexec=""
 
 def trap_exc_during_debug(*args):
